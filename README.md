@@ -1,16 +1,19 @@
-## Hi there 👋
+## ¡Hola, soy Juan Lacruz! 👋
 
-<!--
-**MrJuanLcm/MrJuanLcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Acerca de mí
+Soy un apasionado desarrollador de software con experiencia en el desarrollo frontend y desarrollo backend. Me gusta resolver problemas y crear soluciones efectivas. Mi objetivo es contribuir al mundo del código abierto y aprender continuamente.
 
-Here are some ideas to get you started:
+### Mis intereses
+- Desarrollo frontend
+- Desarrollo backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lenguajes y herramientas
+- HTML, CSS, JavaScript, Python: Avanzado
+- Angular, Node.js, Express.js, Flask: Intermedio
+- Git, VS Code, Postman: Familiarizado
+
+### Encuéntrame en
+- [LinkedIn](https://www.linkedin.com/in/juan-luis-lacruz-moreno)
+- [Twitter](https://twitter.com/MrJuanLcM)
+    
+¡No dudes en explorar mis repositorios y conectarte conmigo! 😊
